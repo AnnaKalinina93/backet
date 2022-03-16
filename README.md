@@ -1,3 +1,7 @@
+# Тестовое задание для компании 5 углов.
+ТЗ: необходимо отрисовать страницу корзины. Выполнить валидацию форм и вывод в алерт данных формы.
+Реализовала на js с применением библиотеки react, функциональных компонентов и хуков. Встроила карту яндекс.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
